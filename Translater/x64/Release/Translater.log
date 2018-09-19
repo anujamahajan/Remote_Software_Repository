@@ -1,0 +1,119 @@
+﻿  Translater.cpp
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(27): error C2871: 'System': a namespace with this name does not exist
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(28): error C2653: 'System': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(28): error C2871: 'Text': a namespace with this name does not exist
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(29): error C2653: 'System': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(29): error C2871: 'Generic': a namespace with this name does not exist
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(33): error C2061: syntax error: identifier 'String'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(34): error C2061: syntax error: identifier 'String'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(35): error C2061: syntax error: identifier 'Dictionary'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(37): error C2059: syntax error: 'public'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(38): error C2143: syntax error: missing ';' before '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(38): error C2447: '{': missing function header (old-style formal list?)
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(45): error C2653: 'Sutils': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(45): error C2653: 'System': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(45): error C2065: 'String': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(45): error C2065: 'str': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(46): error C2448: 'MsgPassingCommunication::MtoNstr': function-style initializer appears to be a function definition
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(56): error C2143: syntax error: missing ';' before '^'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(56): error C2653: 'Sutils': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(56): error C3193: '^': requires '/clr' or '/ZW' command line option
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(57): error C2059: syntax error: '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(57): error C2143: syntax error: missing ';' before '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(57): error C2447: '{': missing function header (old-style formal list?)
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(66): error C2059: syntax error: 'public'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(67): error C2143: syntax error: missing ';' before '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(67): error C2447: '{': missing function header (old-style formal list?)
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(81): error C2143: syntax error: missing ';' before '^'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(81): error C2086: 'int MsgPassingCommunication::String': redefinition
+  f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(56): note: see declaration of 'MsgPassingCommunication::String'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(81): error C2653: 'CsEndPoint': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(81): error C3193: '^': requires '/clr' or '/ZW' command line option
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(81): error C2065: 'CsEndPoint': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(81): error C2065: 'ep': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(82): error C2448: 'MsgPassingCommunication::toString': function-style initializer appears to be a function definition
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(88): error C2143: syntax error: missing ';' before '^'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(88): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(88): error C2825: 'MsgPassingCommunication::CsEndPoint': must be a class or namespace when followed by '::'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(88): error C2510: 'CsEndPoint': left of '::' must be a class/struct/union
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(88): error C3193: '^': requires '/clr' or '/ZW' command line option
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(88): error C2065: 'epStr': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(89): error C2448: 'MsgPassingCommunication::fromString': function-style initializer appears to be a function definition
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(98): error C2059: syntax error: 'public'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(99): error C2143: syntax error: missing ';' before '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\CsMessage.h(99): error C2447: '{': missing function header (old-style formal list?)
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(37): error C2871: 'System': a namespace with this name does not exist
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(38): error C2653: 'System': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(38): error C2871: 'Text': a namespace with this name does not exist
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(42): error C2059: syntax error: 'public'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(43): error C2143: syntax error: missing ';' before '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(43): error C2447: '{': missing function header (old-style formal list?)
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(58): error C2653: 'Translater': is not a class or namespace name
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(59): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(60): error C2065: 'ep_': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(60): error C2065: 'gcnew': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(60): error C2146: syntax error: missing ';' before identifier 'CsEndPoint'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(61): warning C4508: 'MsgPassingCommunication::Translater': function should return a value; 'void' return type assumed
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(64): error C2510: 'Translater': left of '::' must be a class/struct/union
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(64): error C2065: 'ep': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(64): error C2182: 'listen': illegal use of type 'void'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(65): error C2448: 'MsgPassingCommunication::listen': function-style initializer appears to be a function definition
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(76): error C2143: syntax error: missing ';' before '^'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(76): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(76): error C2510: 'Translater': left of '::' must be a class/struct/union
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(76): error C3193: '^': requires '/clr' or '/ZW' command line option
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(77): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(77): error C2059: syntax error: '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(77): error C2143: syntax error: missing ';' before '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(77): error C2447: '{': missing function header (old-style formal list?)
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(88): error C2510: 'Translater': left of '::' must be a class/struct/union
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(88): error C2065: 'csMsg': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(89): error C2448: 'MsgPassingCommunication::fromCsMessage': function-style initializer appears to be a function definition
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(102): error C2510: 'Translater': left of '::' must be a class/struct/union
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(102): error C2065: 'csMsg': undeclared identifier
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(102): error C2182: 'postMessage': illegal use of type 'void'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(102): error C7525: inline variables require at least '/std:c++17'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(103): error C2448: 'MsgPassingCommunication::postMessage': function-style initializer appears to be a function definition
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(110): error C2143: syntax error: missing ';' before '^'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(110): error C7525: inline variables require at least '/std:c++17'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(110): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(110): error C2086: 'int MsgPassingCommunication::CsMessage': redefinition
+  f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(76): note: see declaration of 'MsgPassingCommunication::CsMessage'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(110): error C2510: 'Translater': left of '::' must be a class/struct/union
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(110): error C3193: '^': requires '/clr' or '/ZW' command line option
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(111): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(111): error C2059: syntax error: '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(111): error C2143: syntax error: missing ';' before '{'
+f:\anu\ms\syracuse\spring_2018\cse_687_ood\profdemo\project3helpwpf_new\translater\Translater.h(111): error C2447: '{': missing function header (old-style formal list?)
+Translater.cpp(19): error C2065: 'ep': undeclared identifier
+Translater.cpp(19): error C2065: 'gcnew': undeclared identifier
+Translater.cpp(19): error C2146: syntax error: missing ';' before identifier 'CsEndPoint'
+Translater.cpp(20): error C2065: 'ep': undeclared identifier
+Translater.cpp(20): error C2227: left of '->machineAddress' must point to class/struct/union/generic type
+  Translater.cpp(20): note: type is 'unknown-type'
+Translater.cpp(21): error C2065: 'ep': undeclared identifier
+Translater.cpp(21): error C2227: left of '->port' must point to class/struct/union/generic type
+  Translater.cpp(21): note: type is 'unknown-type'
+Translater.cpp(22): error C2065: 'epStr': undeclared identifier
+Translater.cpp(22): error C2825: 'MsgPassingCommunication::CsEndPoint': must be a class or namespace when followed by '::'
+Translater.cpp(22): error C2510: 'CsEndPoint': left of '::' must be a class/struct/union
+Translater.cpp(22): error C2065: 'ep': undeclared identifier
+Translater.cpp(23): error C2653: 'Console': is not a class or namespace name
+Translater.cpp(23): error C2065: 'epStr': undeclared identifier
+Translater.cpp(23): error C3861: 'Write': identifier not found
+Translater.cpp(24): error C2065: 'newEp': undeclared identifier
+Translater.cpp(24): error C2825: 'MsgPassingCommunication::CsEndPoint': must be a class or namespace when followed by '::'
+Translater.cpp(24): error C2510: 'CsEndPoint': left of '::' must be a class/struct/union
+Translater.cpp(24): error C2065: 'epStr': undeclared identifier
+Translater.cpp(25): error C2653: 'Console': is not a class or namespace name
+Translater.cpp(25): error C2065: 'newEp': undeclared identifier
+Translater.cpp(25): error C2227: left of '->machineAddress' must point to class/struct/union/generic type
+  Translater.cpp(25): note: type is 'unknown-type'
+Translater.cpp(25): error C2227: left of '->port' must point to class/struct/union/generic type
+  Translater.cpp(25): note: type is 'unknown-type'
+Translater.cpp(25): error C3861: 'Write': identifier not found
+Translater.cpp(29): error C2065: 'ep2': undeclared identifier
+Translater.cpp(29): fatal error C1003: error count exceeds 100; stopping compilation
