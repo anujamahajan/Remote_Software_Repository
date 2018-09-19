@@ -1,0 +1,533 @@
+
+  <database>
+    <dbRecord key="ServerPrototype::ServerPrototype.cpp.2">
+      <name>
+        ServerPrototype.cpp
+      </name>
+      <description>
+        ServerPrototype.cpp checkin in again
+      </description>
+      <date>
+        Tue May  1 20:49:39 2018
+      </date>
+      <children>
+        <child>
+          ServerPrototype::ServerPrototype.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\ServerPrototype\ServerPrototype.cpp.2
+        </filepath>
+        <status>
+          Close
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            ServerPrototype
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="CheckIn::CheckIn.h.1">
+      <name>
+        CheckIn.h
+      </name>
+      <description>
+        Checkin header
+      </description>
+      <date>
+        Tue May  1 20:47:22 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\CheckIn\CheckIn.h.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            CheckIn
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="CheckIn::CheckIn.cpp.1">
+      <name>
+        CheckIn.cpp
+      </name>
+      <description>
+        CheckIn test stub
+      </description>
+      <date>
+        Tue May  1 20:47:45 2018
+      </date>
+      <children>
+        <child>
+          CheckIn::CheckIn.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\CheckIn\CheckIn.cpp.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            CheckIn
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="ServerPrototype::ServerPrototype.h.1">
+      <name>
+        ServerPrototype.h
+      </name>
+      <description>
+        ServerPrototype header
+      </description>
+      <date>
+        Tue May  1 20:48:08 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\ServerPrototype\ServerPrototype.h.1
+        </filepath>
+        <status>
+          Close
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            ServerPrototype
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="ServerPrototype::ServerPrototype.cpp.1">
+      <name>
+        ServerPrototype.cpp
+      </name>
+      <description>
+        Serverprototype test stub
+      </description>
+      <date>
+        Tue May  1 20:48:32 2018
+      </date>
+      <children>
+        <child>
+          ServerPrototype::ServerPrototype.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\ServerPrototype\ServerPrototype.cpp.1
+        </filepath>
+        <status>
+          Close
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            ServerPrototype
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="PayLoad::PayLoad.h.1">
+      <name>
+        PayLoad.h
+      </name>
+      <description>
+        Payload is template parameter
+      </description>
+      <date>
+        Tue May  1 21:31:06 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\PayLoad\PayLoad.h.1
+        </filepath>
+        <status>
+          Close
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            PayLoad
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="Translater::Translater.h.1">
+      <name>
+        Translater.h
+      </name>
+      <description>
+        Translater header
+      </description>
+      <date>
+        Tue May  1 20:50:50 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\Translater\Translater.h.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            Translater
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="PayLoad::PayLoad.cpp.1">
+      <name>
+        PayLoad.cpp
+      </name>
+      <description>
+        Test stub for payload functions- checking in again
+      </description>
+      <date>
+        Tue May  1 21:31:07 2018
+      </date>
+      <children>
+        <child>
+          PayLoad::PayLoad.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\PayLoad\PayLoad.cpp.1
+        </filepath>
+        <status>
+          Close
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            PayLoad
+          </category>
+          <category>
+            DbCore
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="Translater::Translater.cpp.1">
+      <name>
+        Translater.cpp
+      </name>
+      <description>
+      </description>
+      <date>
+        Tue May  1 20:51:12 2018
+      </date>
+      <children>
+        <child>
+          Translater::Translater.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\Translater\Translater.cpp.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            Translater
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="PayLoad::PayLoad.cpp.2">
+      <name>
+        PayLoad.cpp
+      </name>
+      <description>
+        Test stub for payload functions- checking in again
+      </description>
+      <date>
+        Tue May  1 21:31:24 2018
+      </date>
+      <children>
+        <child>
+          PayLoad::PayLoad.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\PayLoad\PayLoad.cpp.2
+        </filepath>
+        <status>
+          Close
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            PayLoad
+          </category>
+          <category>
+            DbCore
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="DbCore::DbCore.h.1">
+      <name>
+        DbCore.h
+      </name>
+      <description>
+        DbCore header
+      </description>
+      <date>
+        Tue May  1 20:52:57 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\DbCore\DbCore.h.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            DbCore
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="DbCore::DbCore.cpp.1">
+      <name>
+        DbCore.cpp
+      </name>
+      <description>
+        DbCore main functions
+      </description>
+      <date>
+        Tue May  1 20:52:35 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\DbCore\DbCore.cpp.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            DbCore
+          </category>
+          <category>
+            NoSqlDb
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="ServerPrototype::ServerPrototype.cpp.3">
+      <name>
+        ServerPrototype.cpp
+      </name>
+      <description>
+        ServerPrototype last version
+      </description>
+      <date>
+        Tue May  1 20:58:35 2018
+      </date>
+      <children>
+        <child>
+          ServerPrototype::ServerPrototype.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\ServerPrototype\ServerPrototype.cpp.3
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            ServerPrototype
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="DbCore::PayLoad.h.1">
+      <name>
+        PayLoad.h
+      </name>
+      <description>
+        Payload used in dbcore
+      </description>
+      <date>
+        Tue May  1 20:53:20 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\DbCore\PayLoad.h.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            PayLoad
+          </category>
+          <category>
+            DbCore
+          </category>
+          <category>
+            NoSqlDb
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="Repository_GUI::App.xaml.cs.1">
+      <name>
+        App.xaml.cs
+      </name>
+      <description>
+      </description>
+      <date>
+        Tue May  1 21:19:00 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\Repository_GUI\App.xaml.cs.1
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="PayLoad::PayLoad.h.2">
+      <name>
+        PayLoad.h
+      </name>
+      <description>
+        Payload is template parameter
+      </description>
+      <date>
+        Tue May  1 21:31:23 2018
+      </date>
+      <children>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\PayLoad\PayLoad.h.2
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            PayLoad
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+    <dbRecord key="PayLoad::PayLoad.cpp.3">
+      <name>
+        PayLoad.cpp
+      </name>
+      <description>
+        Test stub for payload functions- checking in file twice
+      </description>
+      <date>
+        Tue May  1 21:31:27 2018
+      </date>
+      <children>
+        <child>
+          PayLoad::PayLoad.h.1
+        </child>
+      </children>
+      <payload>
+        <filepath>
+          ..\ServerRepository\PayLoad\PayLoad.cpp.3
+        </filepath>
+        <status>
+          Open
+        </status>
+        <author>
+          Anuja Mahajan
+        </author>
+        <categories>
+          <category>
+            PayLoad
+          </category>
+          <category>
+            DbCore
+          </category>
+        </categories>
+      </payload>
+    </dbRecord>
+  </database>
